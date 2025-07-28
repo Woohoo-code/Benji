@@ -1,0 +1,30 @@
+.square {
+width: 100px;
+height: 100px;
+}
+.red {
+background-color: red;    
+}
+.longrect {
+width: 200px;
+height: 100px;
+
+}
+.green {
+background-color: green;
+}
+
+.tallrect {
+width: 100px;
+height: 200px;
+}
+.blue {
+background-color: #3BDAB8;
+}
+.parent {
+display: flex;
+flex-direction: row;
+width: 450px;
+height: 450px;
+justify-content: space-between;
+}
