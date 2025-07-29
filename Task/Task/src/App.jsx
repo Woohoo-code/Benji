@@ -35,8 +35,6 @@ return (<div>
   <ol>Task List {v}</ol>
   </div>);
 
-
-
 }
 
 export default App
